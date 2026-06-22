@@ -1,0 +1,19 @@
+version: 1
+project:
+  title: Gustav Theodor Fechner
+  description: New English Translations
+  keywords: 
+  - neuroscience
+  - experience
+  - consciousness
+  authors: Gustav Theodor Fechner
+  #github: 
+  toc:
+    - file: intro.md
+    - file: nanna_D.md
+    - file: nanna_E.md
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
