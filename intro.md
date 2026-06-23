@@ -20,7 +20,7 @@ Several of these books have no recent English translations. Some have never been
 
 Our goal is to (slowly) change that.
 
-You can find (starting attempts at) English translations of **[Nanna](nanna_e.md)**
+You can find (starting attempts at) English translations of **[Nanna](nanna_E.md)**
 and **[Psychophysics: Part 2](PP2_E.md)**
 in the sidebar to the left.
 
