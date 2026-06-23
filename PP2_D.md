@@ -100,9 +100,9 @@ XXXIV. Ueber die extensiven Empfindungen insbesondere
 
 XXXV. Einige Tastversuchsreihen nach der Methode der mittleren Fehler 
 
-1. Z u s a t z. Herleitung der Correction wegen des endlichen m 
+1. Z u s a t z. Herleitung der Correction wegen des endlichen _m_ 
 
-2. Z u s a t `z. Herleitung der Correction wegen der Grösse der Intervalle 
+2. Z u s a t z. Herleitung der Correction wegen der Grösse der Intervalle 
 
 Innere Psychophysik.
 
