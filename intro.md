@@ -1,5 +1,13 @@
 # Free Fechner
 
+% Gustav Theodor FEchner
+:::{figure} ./images/GustavTheodorFEchner.png
+:label: fig:FEchner
+:width: 85%
+Portrait of Fechner[^1]
+:::
+[^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Gustav_Theodor_Fechner_(1801-1887)_middle_aged.jpg)
+
 Gustav Theodor Fechner (1801-1887) was one of the first experimental psychologists. 
 
 For some reason, Fechner is not quite as widely known as one might expect for a founder of a scientific field. It seems, however, that his influence is slowly growing.
