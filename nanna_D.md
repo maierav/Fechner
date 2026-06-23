@@ -1,4 +1,4 @@
-# Nanna, oder Über das Seelenleben der Pflanzen
+# [GERMAN] Nanna, oder Über das Seelenleben der Pflanzen
 
  __von Gustav Theodor Fechner.__ 
 

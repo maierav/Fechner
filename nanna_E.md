@@ -1,4 +1,4 @@
-# Nanna, or On the Soul-Life of Plants
+# [ENGLISH] Nanna, or On the Soul-Life of Plants
 
  __by Gustav Theodor Fechner.__ 
 
