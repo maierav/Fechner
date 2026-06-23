@@ -10,23 +10,21 @@ A (slightly AI-enhanced) photograph of a middle aged Gustav Fechner [^1].
 
 Gustav Theodor Fechner (1801-1887) was one of the first experimental psychologists. 
 
-For some reason, Fechner is not quite as widely known as one might expect for a founder of a scientific field. It seems, however, that his influence is slowly growing.
+For some reason, Fechner is not quite as widely known as one might expect for a founder of a scientific field. It seems, however, that his influence is slowly growing. Fechner's claim to fame was the discovery of mathematical laws that govern human conscious experience. Yet, Fechner left behind a much larger body of work that united philosophical, scientific, and mathematical thought.
 
-Fechner's claim to fame was the discovery of mathematical laws that govern human conscious experience.
+**Several of these books have no recent English translations. Some have never been translated to English.**
 
-Yet, Fechner left behind a much larger body of work that united philosophical, scientific, and mathematical thought.
+Our goal is to (slowly) change that. For a start, you can find (starting attempts at) English translations of 
 
-Several of these books have no recent English translations. Some have never been translated to English.
+**[Nanna](nanna_E.md)**
 
-Our goal is to (slowly) change that.
+and 
 
-You can find (starting attempts at) English translations of **[Nanna](nanna_E.md)**
-and **[Psychophysics: Part 2](PP2_E.md)**
+**[Psychophysics: Part 2](PP2_E.md)**
+
 in the sidebar to the left.
 
-More to come.
-
-You can also find the (modernized) original German texts used for translation (see comments below).
+More to come. You can also find the (modernized) original German texts used for translation (see comments below).
 
 
 ## Translating Fechner
