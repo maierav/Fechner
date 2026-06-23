@@ -28,6 +28,7 @@ Leipzig, den 18. August 1860.
 
 *) So zeigt das Weber'sche Gesetz in seiner Anwendung auf die Empfindlichkeit für Gewichtsunterschiede nach Th. I. S. 200. 197 eine Abweichung an der unteren Gränze, welche mit der bei Lichtunterschieden nach Th. I. S. 4 65 stattfindenden nicht gleicher Natur ist, und eine andere Berücksichtigung in den Formeln der äusseren Psychophysik fodern würde, um dadurch gedeckt zu werden. 
 
+
 ## INHALT. 
 
 **Fortsetzung der äusseren Psychophysik.** 
@@ -86,7 +87,8 @@ f) Herleitung der Formeln
 
 g) Allgemeine Betrachtungen 
 
-Specielle Untersuchungen über einige Empfindungsgebiete. 
+
+**Specielle Untersuchungen über einige Empfindungsgebiete.** 
 
 XXXIII. Ueber Licht- und Schallempfindung in Beziehung zueinander 
 	
@@ -104,7 +106,8 @@ XXXV. Einige Tastversuchsreihen nach der Methode der mittleren Fehler
 
 2. Z u s a t z. Herleitung der Correction wegen der Grösse der Intervalle 
 
-Innere Psychophysik.
+
+**Innere Psychophysik.**
 
 XXXVI. Uebergang von der äusseren zur inneren Psychophysik . 
 
@@ -150,7 +153,7 @@ XLV. Psychophysische Continuität und Discontinuität. Psychophysischer Stufenba
 
 XLVI. Frage nach der Natur der psychophysischen Bewegung  
 
-Historisches und Zusätze. 
+**Historisches und Zusätze.** 
 
 XLVII. Historisches 
 

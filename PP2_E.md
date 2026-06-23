@@ -29,3 +29,139 @@ Leipzig, August 18, 1860.
 
 
 *) As Weber's law, in its application to sensitivity to differences in weight according to Volume I, pg. 200, 197, exhibits a deviation at the lower limit, which is of a different nature than that which occurs in the case of differences in light according to Volume 1,. pg. 4, 65. This would require a different consideration in the formulas of outer psychophysics to be accommodated adequately.
+
+## TABLE OF CONTENTS.
+
+**Continuation of Outer Psychophysics.**
+
+Formulas and Consequences of the Psychological Measure.
+
+XIV. General Preliminary Remarks. Recall of the Most Important Properties of Logarithms.
+
+XV. A Mathematical Auxiliary Principle.
+
+XVI. The Fundamental Formula and Measure Formula.
+
+XVII. Mathematical Derivation of the Measure Formula.
+
+XVIII. Negative Sensation Values in Particular. Representation of the Contrast between Warmth and Cold Sensations.
+
+XIX. The Relative Relationship between Stimulus and Sensation.
+
+XX. Summation of Sensations.
+
+XXI. Distribution Ratios of Sensation.
+
+XXII. Differentiation between Two Types of Sensory Differences.
+
+XXIII. The Difference Formula.
+
+XXIV. The Difference Measure Formula.
+
+XXV. Application of the Difference Measure Formula to the Estimation of Star Magnitudes.
+
+XXVI. The Higher Difference Measure Formulas.
+
+XXVII. The Location Formulas. Application to the Assessment of the Relations of Constant Errors.
+
+XXVIII. Remarks on the Measurement Methods of Sensitivity.
+
+XXIX. Relationship between Contrast Sensations and Sensation Sums.
+
+XXX. Question about Sensation Products. Relationship between Pitch, Intensity, and Periodic Element in the Musical Scale.
+
+XXXI. Generalization of the Sensation Measurement Principle.
+
+XXXII. Oscillatory Stimuli in General. Attempt at an Elementary Construction of the Sensation Measure.
+
+a) Preliminary Remarks
+
+b) General Progression of the Investigation
+
+c) Overview of the Used Notations
+
+d) Equations for the Oscillations on Which it is Based
+
+e) Formulas and Results Arising from the Investigation
+
+f) Derivation of the Formulas
+
+g) General Considerations
+
+
+**Special Investigations on Some Sensory Domains.**
+
+XXXIII. On the Relationship between Visual and Auditory Sensation
+
+a) On the Limits of Color Visibility and the Causes of the Restriction of Visibility
+
+b) Points of Agreement and Difference between the Sensory Domains of Light and Sound
+
+c) Assumptions that seem necessary to explain the previous points of agreement and difference
+
+XXXIV. On Extensive Sensations in Particular
+
+XXXV. Some Series of Tactile Experiments using the Method of Mean Errors
+
+Addendum. Derivation of the Correction for the Finite _m_
+
+Addendum. Derivation of the Correction for the Size of Intervals
+
+
+**Inner Psychophysics.**
+
+XXXVI. Transition from External to Inner Psychophysics.
+
+XXXVII. On the Seat of the Soul
+
+a) Seat of the Soul in a Broader Sense
+
+b) Seat of the Soul in a Narrower Sense
+
+c) Question of the Simple or Extended (Narrow) Seat of the Soul
+
+d) Question of the Extent of the Extended Seat of the Soul
+
+e) Summary and Conclusion
+
+XXXVIII. Transfer of Weber's Law and the Threshold Phenomenon to Inner Psychophysics
+
+XXXIX. Broader Significance of the Threshold Phenomenon in Inner Psychophysics
+
+XL. Sleep and Wakefulness
+
+XLI. Partial Sleep, Attention
+
+XLII. Relationship between General Consciousness and its Special Phenomena. The Wave Schema
+
+XLIII. Relationship between Sensory and Imaginary Phenomena in General
+
+XLIV. Observations and Remarks on the Relationship between Afterimages and Memory Images in Particular. Memory Afterimages, Phenomena of Sensory Memory, Hallucinations, Illusions, Dreams
+
+a) Memory Images and Afterimages in Relation to Each Other
+
+b) Memory Afterimages
+
+c) Sensory Memory Phenomena and Reaction Phenomena to the Observation of Movements
+
+d) Involuntary Hallucinations and Illusions
+
+e) General Considerations
+
+f) Some Remarks on Dreams
+
+XLV. Psychophysical Continuity and Discontinuity. The Psychophysical Structure of the World. Points of Connection between Psychophysics, Natural Philosophy, and Religion
+
+XLVI. Question about the Nature of Psychophysical Motion
+
+
+**Historical Background and Addenda.**
+
+XLVII. Historical Background
+
+XLVIII. Addenda
+
+a) Addendum regarding an experiment proposed in Chapter 30
+
+b) Addendum on some recent investigations by Helmholtz relevant to psychophysics
+
