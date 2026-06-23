@@ -12,6 +12,8 @@ project:
     - file: intro.md
     - file: nanna_D.md
     - file: nanna_E.md
+    - file: PP2_D.md
+    - file: PP2_E.md
 site:
   template: book-theme
   options:
