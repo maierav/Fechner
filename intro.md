@@ -3,7 +3,7 @@
 % Gustav Theodor Fechner
 :::{figure} ./images/GustavTheodorFechner.png
 :label: fig:FEchner
-:width: 85%
+:width: 33%
 Portrait of Fechner[^1]
 :::
 [^1]: [public domain source](https://commons.wikimedia.org/wiki/File:Gustav_Theodor_Fechner_(1801-1887)_middle_aged.jpg)
