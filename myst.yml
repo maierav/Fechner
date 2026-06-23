@@ -6,8 +6,8 @@ project:
   - neuroscience
   - experience
   - consciousness
-  authors: Gustav Theodor Fechner
-  #github: 
+  #authors: Gustav Theodor Fechner
+  github: https://maierav.github.io/Fechner/
   toc:
     - file: intro.md
     - file: nanna_D.md
