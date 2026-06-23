@@ -16,4 +16,4 @@ site:
   template: book-theme
   options:
      favicon: favicon.ico
-     logo: site_logo.png
+     logo: images/site_logo.png
