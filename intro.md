@@ -1,6 +1,6 @@
 # Free Fechner
 
-% Gustav Theodor FEchner
+% Gustav Theodor Fechner
 :::{figure} ./images/GustavTheodorFEchner.png
 :label: fig:FEchner
 :width: 85%
