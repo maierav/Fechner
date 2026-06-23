@@ -30,74 +30,133 @@ Leipzig, den 18. August 1860.
 
 ## INHALT. 
 
-Fortsetzung der äusseren Psychophysik. 
+**Fortsetzung der äusseren Psychophysik.** 
 
 Formeln und Folgerangen des psychischen Masses. 
 
 XIV. Allgemeine Vorerinnerung. Erinnerung an die wichtigsten Eigenschaften der Logarithmen 
+
 XV. Ein mathematisches Hülfsprincip
+
 XVI. Die Fundamentalformel und Massformel 
+
 XVII. Mathematische Ableitung der Massformel
+
 XVIII. Die negativen Empfindungswerthe insbesondere. Repräsentation des Gegensatzes von Wärme- und Kälte-Empfindung 
+
 XIX. Bezugsweiser Gang von Reiz und Empfindung 
+
 XX. Summation von Empfindungen
+
 XXI. Vertheilungsverhältnisse der Empfindung 
-XXII. Unterscheidung zwischen zwei Arten von Empfindungsunter- schieden 
+
+XXII. Unterscheidung zwischen zwei Arten von Empfindungsunterschieden 
+
 XXIII. Die Unterschiedsformel 
+
 XXIV. Die Unterschiedsmassformel 
+
 XXV. Anwendung der Unterschiedsmassformel auf die Schätzung der Sterngrössen 
+
 XXVI. Die höheren Unterschiedsmassformeln
+
 XXVII. Die Lagenformeln. Anwendung derselben auf die Beurtheilung der Verhältnisse constanter Fehler 
-XXVIII. Bemerkungen zu den Massmethoden der Empfindlichkeit .
+
+XXVIII. Bemerkungen zu den Massmethoden der Empfindlichkeit
+
 XXIX. Beziehung von Contrastempfindungen und Empfindungssummen 
+
 XXX. Frage nach Empfindungsproducten. Beziehung zwischen Höhe, Stärke und periodischem Element in der Tonskala 
-XXXI. Verallgemeinerung des Massprincipes der Empfindung. 
+
+XXXI. Verallgemeinerung des Massprincipes der Empfindung
+
 XXXII. Die oscillatorischen Reize im Allgemeinen. Versuch einer Elementarconstruction des Empfindungsmasses
-	a) Vorerörterungen
-	b) Allgemeiner Gang der Untersuchung
-	c) Uebersicht der gebrauchten Bezeichnungen
-	d) Gleichungen für die Schwingungen, auf denen gefusst wird 
-	e) Formeln und Resultate, welche aus der Untersuchung hervorgehen 
-	f) Herleitung der Formeln 
-	g) Allgemeine Betrachtungen 
+
+a) Vorerörterungen
+
+b) Allgemeiner Gang der Untersuchung
+
+c) Uebersicht der gebrauchten Bezeichnungen
+
+d) Gleichungen für die Schwingungen, auf denen gefusst wird 
+
+e) Formeln und Resultate, welche aus der Untersuchung hervorgehen 
+
+f) Herleitung der Formeln 
+
+g) Allgemeine Betrachtungen 
 
 Specielle Untersuchungen über einige Empfindungsgebiete. 
+
 XXXIII. Ueber Licht- und Schallempfindung in Beziehung zueinander 
-	a) Ueber die Gränzen der Sichtbarkeit der Farben und die Ursachen der Beschränkung dieser Sichtbarkeit  
-	b) Puncte der Uebereinstimmung und Verschiedenheit zwischen den Empfindungsgebieten von Licht und Schall  
-	c) Annahmen, welche nöthig scheinen, die vorigen Puncte der Uebereinstimmung und Verschiedenheit zu erklären 
+	
+a) Ueber die Gränzen der Sichtbarkeit der Farben und die Ursachen der Beschränkung dieser Sichtbarkeit  
+	
+b) Puncte der Uebereinstimmung und Verschiedenheit zwischen den Empfindungsgebieten von Licht und Schall  
+	
+c) Annahmen, welche nöthig scheinen, die vorigen Puncte der Uebereinstimmung und Verschiedenheit zu erklären 
+
 XXXIV. Ueber die extensiven Empfindungen insbesondere 
+
 XXXV. Einige Tastversuchsreihen nach der Methode der mittleren Fehler 
-	1. Z u s a t z. Herleitung der Correction wegen des endlichen m 
-	2. Z u s a t `z. Herleitung der Correction wegen der Grösse der Intervalle 
+
+1. Z u s a t z. Herleitung der Correction wegen des endlichen m 
+
+2. Z u s a t `z. Herleitung der Correction wegen der Grösse der Intervalle 
 
 Innere Psychophysik.
+
 XXXVI. Uebergang von der äusseren zur inneren Psychophysik . 
+
 XXXVII. Ueber den Sitz der Seele
-	a) Sitz der Seele im weiteren Sinne 
-	b) Sitz der Seele im engeren Sinne
-	c) Frage nach dem einfachen oder ausgedehnten (engeren) Seelensitze 
-	d) Frage nach der Erstreckung d. ausgedehnten Seelensitzes 
-	e) Resume und Schluss 
+
+a) Sitz der Seele im weiteren Sinne 
+
+b) Sitz der Seele im engeren Sinne
+
+c) Frage nach dem einfachen oder ausgedehnten (engeren) Seelensitze 
+
+d) Frage nach der Erstreckung d. ausgedehnten Seelensitzes 
+
+e) Resume und Schluss 
+
 XXXVIII. Uebertragung des Weber'schen Gesetzes und der Thatsache der Schwelle in die innere Psychophysik 
+
 XXXIX. Allgemeinere Bedeutung der Thatsache der Schwelle in der inneren Psychophysik 
+
 XL. Schlaf und Wachen 
+
 XLI. Partieller Schlaf, Aufmerksamkeit 
+
 XLH. Verhältniss zwischen dem Allgemeinbewusstsein und seinen Sonderphänomenen. Das Wellenschema 
+
 XLIII. Verhältniss zwischen den sinnlichen und Vorstellungsphänomenen im Allgemeinen 
+
 XLIV. Beobachtungen und Bemerkungen über das Verhältniss zwischen Nachbildern und Erinnerungsbildern insbesondere. Erinnerungsnachbilder, Phänomene des Sinnengedächtnisses, Hallucinationen, Illusionen, Träume 
-	a) Erinnerungsbilder und Nachbilder in Beziehung zueinander 
-	b) Erinnerungsnachbilder 
-	c) Erscheinungen des Sinnengedächtnisses und Reactionserscheinungen 	nach Anschauung von Bewegungen  
-	d) Unwillkührliche Hallucinationen und Illusionen 
-	e) AllgemeineBetrachtungen 
-	f) Einige Bemerkungen über Träume 
+
+a) Erinnerungsbilder und Nachbilder in Beziehung zueinander 
+
+b) Erinnerungsnachbilder 
+
+c) Erscheinungen des Sinnengedächtnisses und Reactionserscheinungen nach Anschauung von Bewegungen  
+
+d) Unwillkührliche Hallucinationen und Illusionen 
+
+e) Allgemeine Betrachtungen 
+
+f) Einige Bemerkungen über Träume 
+
 XLV. Psychophysische Continuität und Discontinuität. Psychophysischer Stufenbau der Welt. Anknüpfungspuncte der Psychophysik an Naturphilosophie und Religion 
+
 XLVI. Frage nach der Natur der psychophysischen Bewegung  
 
 Historisches und Zusätze. 
+
 XLVII. Historisches 
+
 XLVIII. Zusätze	
+
 a) Zusatz bezüglich eines im 30. Kapitel vorgeschagenen Versuches 
+
 b) Zusatz über einige in die Psychophysik einschlagende neuere Untersuchungen von Helmholtz 
 
