@@ -1,4 +1,4 @@
-# [German] Psychophysik - Teil 2
+# [GERMAN] Psychophysik - Teil 2
 
 ## VORWORT ZUM ZWEITEN THEILE.
 

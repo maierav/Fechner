@@ -1,4 +1,4 @@
-# [English] Psychophysics - Volume 2
+# [ENGLISH] Psychophysics - Volume 2
 
 ## PREFACE TO THE SECOND VOLUME.
 
