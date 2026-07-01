@@ -37,7 +37,7 @@ Formeln und Folgerangen des psychischen Masses.
 
 XIV. Allgemeine Vorerinnerung. Erinnerung an die wichtigsten Eigenschaften der Logarithmen 
 
-XV. Ein mathematisches Hülfsprincip
+[XV. Ein mathematisches Hülfsprincip](XV)
 
 XVI. Die Fundamentalformel und Massformel 
 
@@ -163,6 +163,7 @@ a) Zusatz bezüglich eines im 30. Kapitel vorgeschagenen Versuches
 
 b) Zusatz über einige in die Psychophysik einschlagende neuere Untersuchungen von Helmholtz 
 
+(XV)=
 ## XV. Ein mathematisches Hülfsprincip. 
 
 Bei unserer Ableitung der psychischen Massfunction aus dem Weber'schen Gesetze wird uns ein mathematisches Hülfsprincip von Nutzen sein , was ich vor seinem allgemeinen Ausspruche zuerst an einigen Beispielen erläutern will *). 
