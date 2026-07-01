@@ -38,7 +38,7 @@ Formulas and Consequences of the Psychological Measure.
 
 XIV. General Preliminary Remarks. Recall of the Most Important Properties of Logarithms.
 
-[XV. A Mathematical Auxiliary Principle.](XV)
+[XV. A Mathematical Auxiliary Principle.](XVe)
 
 XVI. The Fundamental Formula and Measure Formula.
 
@@ -165,7 +165,7 @@ a) Addendum regarding an experiment proposed in Chapter 30
 
 b) Addendum on some recent investigations by Helmholtz relevant to psychophysics
 
-(XV)=
+(XVe)=
 ## XV. A Mathematical Auxiliary Principle.
 
 In our derivation of the psychophysical measurement function from Weber's law, a mathematical auxiliary principle will be of use to us, which I will first explain through some examples before its general statement *).
